@@ -1,10 +1,16 @@
+DAX Basics and practice:
+
 If you want to perform Sum, Avg, Max, Min,Count, DistinctCount, Summarize, Don't summarize etc.
 NO NEED OF ANY LANGAUGE AND CALCULATIONS, OTHER THAN THOSE REQUIRE A LANGUAGE CALLED "DAX".
 
 DAX: Data Analysis Expressions
+
 Why? Modeling and analysis
+
 Modeling? Relationships and Directions 
+
 Analysis? Aggregate (sum, avg, count etc.) and Analytical (Rank, Stddev, NormT etc.)
+
 What type? Functional or Formula Language [more and more functions available]
 	Note: It is not a programming language
 What it contains?
